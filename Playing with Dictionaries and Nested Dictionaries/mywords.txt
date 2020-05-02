@@ -1,4 +1,0 @@
-opulence,great wealth
-penury,extremely poor
-gregarious,fond of company; sociable
-entomology,study of insects
